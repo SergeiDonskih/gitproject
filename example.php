@@ -13,7 +13,7 @@
 
     <h2>hello git!!!</h2>
 
-    branch master
+    branch mst
 
 
 <?php 
