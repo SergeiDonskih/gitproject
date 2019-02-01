@@ -1,6 +1,6 @@
 <?php 
     sleep(1);
-    // echo $_POST['data'];
+    echo $_POST['data'];
 
 
     $persons = [
