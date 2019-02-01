@@ -13,8 +13,6 @@
 
     <h2>hello git!!!</h2>
 
-    fhnghnghng
-
 
 <?php 
     
